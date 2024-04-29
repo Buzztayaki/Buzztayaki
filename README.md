@@ -1,6 +1,6 @@
 - Hi there Im Carlos Bustamante aka Buzztayaki.
 
-- Im a student of Systems Management and Programing.
+- Im a SysAdmin and Programmer.
 
 - I create this github to post my personal projects while I learn:
   - Frontend
